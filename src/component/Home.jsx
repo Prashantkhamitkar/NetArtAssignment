@@ -8,8 +8,8 @@ const Home = () => {
     <div className="HomeContainer text-center">
  
   <div className="row">
-    <div className="col-4"><Award/></div>
-    <div className="col-8"><MainContent/></div>
+    <div className="col-sm-12 col-md-4"><Award/></div>
+    <div className="col-sm-12 col-md-8"><MainContent/></div>
   </div>
 </div>
     </>

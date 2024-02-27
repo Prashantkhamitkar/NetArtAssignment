@@ -17,5 +17,13 @@ margin-bottom: 30px;
     width: 100%;
 }
 .MainImage{
-    width: 96%;
+    width: 90%;
+}
+.MainContainer{
+    width: 95%;
+    margin-left: 10px; 
+}
+.TextContainer{
+    /* background-color: red; */
+
 }
