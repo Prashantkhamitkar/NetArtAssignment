@@ -10,7 +10,7 @@ export  const Product = () => {
         </div>
         <div className='row text-center'>
             <div className='col-12'>
-                <img src={'public/asserts/3.png'} className='ProductImage'/>
+                <img src={'/asserts/3.png'} className='ProductImage'/>
             </div>
         </div>
         <div className='row text-center'>
