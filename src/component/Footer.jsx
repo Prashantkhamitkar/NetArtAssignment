@@ -6,7 +6,7 @@ const Footer = () => {
         
            <div className='ParentFooter'> <div className='FooterContainer'>
            <div className='TextDiv'>
-          <img src={'public/asserts/pngwingphone.png'} className='logoclass'/>
+          <img src={'/asserts/pngwingphone.png'} className='logoclass'/>
             Toll Free<strong>1800 200 1234</strong></div>
            <div className='TextDiv'>
            <img  src="https://img.icons8.com/ios/50/facebook-new.png" alt="facebook-new" className='logoclass'/>

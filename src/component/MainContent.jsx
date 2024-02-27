@@ -4,7 +4,7 @@ const MainContent = () => {
   return (
     <div className='MainContainer text-start'>
 <div className='LogoContainer'>
-    <img src={'public/asserts/logo.png'} className='LogoImage'/>
+    <img src={'/asserts/logo.png'} className='LogoImage'/>
 </div>
 <div className='TextContainer'>
     <h5 className='TextHeading'>C.R.I. PUMPS WINS THE NATIONAL ENERGY CONSERVATION AWARD 2018 for the 4th time.</h5> 
@@ -17,7 +17,7 @@ const MainContent = () => {
     </ul>
     </div>
     <div className='MainImageContainer'>
-        <img src={'public/asserts/2.png'} className='MainImage'/>
+        <img src={'/asserts/2.png'} className='MainImage'/>
     </div>
 <div>
 <p>Government of India has awarded the <strong>"National Energy Conservation Award 2018"</strong>. Mr. G. Selvaraj, Joint Managing Director of C.R.I. Group received the award from Smt. Sumitra Mahajan, Speaker of Lok Sabha & Shri. Raj Kumar Singh, Honorable Minister of State.</p>
